@@ -32,11 +32,13 @@ a {
 .heading.lv1 {
     font-size: 5.8rem;
     line-height: 6.8rem;
+    letter-spacing: -0.116rem;
 }
 
 .heading.lv2 {
     font-size: 3.8rem;
     line-height: 4.8rem;
+    letter-spacing: -0.076rem;
 }
 
 .heading.lv3 {
